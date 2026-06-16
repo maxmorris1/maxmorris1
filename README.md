@@ -32,7 +32,9 @@ hobbies:
   - rubix cubes
   - 3d printing
   - basically anything creative
-about me: I have ADHD so hobbies seem to rotate every week for me. I am always trying to learn new things, meet new people and procrastinate cleaning my room. I'd like to think that I am some what good at chess and coming up with frontend designs for projects that I dont have the time or energy to make. :)
+about me: I have ADHD so hobbies seem to rotate every week for me. I am always trying to learn new things,
+meet new people and procrastinate cleaning my room. I'd like to think that I am some what good at chess and
+coming up with frontend designs for projects that I dont have the time or energy to make. :)
 ```
 <!--
 **maxmorris1/maxmorris1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
