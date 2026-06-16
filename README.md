@@ -1,6 +1,7 @@
-## herea 👋
-![GitHub User's stars](https://img.shields.io/github/stars/maxmorris1)
-![](https://komarev.com/ghpvc/?username=maxmorris1)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/maxmorris1" alt="GitHub User's stars">
+  <img src="https://komarev.com/ghpvc/?username=maxmorris1" alt="maxmorris1's profile views">
+<p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Static badge" />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Static badge" />
