@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Repositories](https://shields.io)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/:maxmorris1/:Python-Coin-Companion-App)
 <!--
 **maxmorris1/maxmorris1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
