@@ -2,6 +2,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/maxmorris1)
 ![](https://komarev.com/ghpvc/?username=maxmorris1)
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Static badge" />
   ![Static Badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Bambu%20Lab-00AE42.svg?style=for-the-badge&logo=Bambu-Lab&logoColor=white)
