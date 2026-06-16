@@ -1,7 +1,7 @@
 ## herea 👋
 ![GitHub User's stars](https://img.shields.io/github/stars/maxmorris1)
 ![](https://komarev.com/ghpvc/?username=maxmorris1)
-<div align="center">
+<p align="center">
   ![Static Badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Bambu%20Lab-00AE42.svg?style=for-the-badge&logo=Bambu-Lab&logoColor=white)
@@ -10,7 +10,7 @@
   ![Static Badge](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Valorant-FA4454.svg?style=for-the-badge&logo=Valorant&logoColor=white)
-<div>
+<p>
 <!--
 **maxmorris1/maxmorris1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
