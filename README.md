@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub User's stars](https://img.shields.io/github/stars/:maxmorris1)
+![GitHub User's stars](https://img.shields.io/github/stars/maxmorris1)
 <!--
 **maxmorris1/maxmorris1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
