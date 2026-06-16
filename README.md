@@ -1,3 +1,6 @@
+<img width="1322" height="356" alt="iam1-ezgif com-crop" src="https://github.com/user-attachments/assets/89ffff6a-2301-40ba-8ed2-01d490f4ca0d" />
+<br>
+<br>
 <p align="center">
   <img src="https://img.shields.io/github/stars/maxmorris1" alt="GitHub User's stars">
   <img src="https://komarev.com/ghpvc/?username=maxmorris1" alt="maxmorris1's profile views">
